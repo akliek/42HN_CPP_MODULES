@@ -3,11 +3,11 @@
 It is a collection of tasks to understand basic concepts of C++ programing language.
 
 Note:
-C++98 version.
+    C++98 version.
 
 # Content
 
-    cpp00 - basics of OOP: namespace, class, member functions, stdio stream, initialization lists and etc.
+    cpp00 - basics of OOP: namespace, class, member functions, stdio stream and etc.
     cpp01 - memory allocation, references, pointers to members, switch;
     cpp02 - ad-hoc polymorphism, operators overload and orthodox canonical classes;
     cpp03 - inheritence;
