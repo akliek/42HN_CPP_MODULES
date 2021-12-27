@@ -17,4 +17,4 @@ Note:
     cpp07 - templates;
     cpp08 - templated containers, iterators, algorithms.
 Note:
-  All subject and in cpp* folders.
+  All subjects are in cpp* folders.
